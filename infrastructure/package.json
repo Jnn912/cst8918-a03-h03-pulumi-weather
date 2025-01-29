@@ -1,12 +1,16 @@
 {
     "name": "cst8918-a03-weather",
     "main": "index.ts",
+    "scripts": {
+        "dev": "remix dev --manual"
+    },
     "devDependencies": {
         "@types/node": "^18",
         "typescript": "^5.0.0"
     },
     "dependencies": {
-        "@pulumi/pulumi": "^3.113.0",
+        "@pulumi/azure-native": "^2.84.0",
+        "@pulumi/pulumi": "^3.147.0",
         "redis": "^4.7.0"
     }
 }

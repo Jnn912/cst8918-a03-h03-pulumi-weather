@@ -1,4 +1,4 @@
 config:
-  cst8918-a03-weather:weatherApiKey:
-    secure: AAABAF4IGiV+oQoPq76zh1kdmDb8r6zi2Z6KYBGrrgewZJPjqGr9OTGv5B12ITUYtFXTc/JpL/xf7wMWEdpaQA==
   cst8918-a03-weather:imageTag: v0.3.0
+  cst8918-a03-weather:weatherApiKey:
+    secure: AAABAELZpsEq8kUnLoxegutoZ7bUf127PF5SP0eVgHHvJBZ1lj55tCry4XzdXJWqTd3soJBDo9cH5CLogTEtRg==
